@@ -1,0 +1,8 @@
+[package]
+name = "twsearch-crate-test"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+cubing = "0.14.4"
+twsearch = "0.7.1"
